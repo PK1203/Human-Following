@@ -7,7 +7,7 @@ import cv2
 import pickle
 import struct
 
-width=1279
+width=1280
 height=720
 class mpPose:
     import mediapipe as mp
